@@ -1,0 +1,11 @@
+---
+debug: True
+
+database:
+  user: haven
+  password: haven
+  host: localhost
+  port: 5432
+  name: haven_test
+
+secret_key: haven

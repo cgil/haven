@@ -1,0 +1,27 @@
+mock
+nose
+
+# Test harness
+pytest
+
+# Add loop-on-fail (-f) to py.test
+pytest-xdist
+
+# Coverage
+coverage
+pytest-cov
+
+# Linter
+flake8
+
+# Linter dependency
+pep8
+
+# Linter dependency
+pyflakes
+
+# freeze time
+freezegun
+
+# fixtures replacement
+factory-boy
